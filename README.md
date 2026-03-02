@@ -1,5 +1,4 @@
-# Hi there 
-# Nice meeting you, I'm Lakshmi Khetawat!
+# Lakshmi Khetawat
 
 ### AI & Full Stack Engineer  
 Building Intelligent Infrastructure Systems
