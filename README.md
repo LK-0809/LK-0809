@@ -6,15 +6,13 @@ Building Intelligent Infrastructure Systems
 ---
 
 ## About Me
-
-I am a B.Tech student focused on designing **AI-powered systems** that solve real-world problems in agriculture, urban infrastructure, and public services.
-
-My work combines:
-- Artificial Intelligence  
-- IoT Systems  
-- Scalable Web Technologies  
-
-to build **deployable, production-oriented solutions** rather than academic prototypes.
+🎓 B.Tech AI and Data Science student @ NIIT University (CGPA: 9.88)
+⚡ Strong interest in AI Systems, IoT, and Scalable Architectures
+🛠️ Built systems combining:
+      Artificial Intelligence
+      IoT-based data pipelines
+      Scalable web technologies
+🚀 Focused on building deployable, production-ready solutions (not just academic projects)
 
 Currently preparing for high-impact internships in **AI and Full Stack Engineering**, with strong focus on:
 - System Design  
