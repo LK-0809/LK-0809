@@ -14,12 +14,6 @@ Building Intelligent Infrastructure Systems
   - Scalable web technologies  
 - 🚀 Focused on building deployable, production-ready solutions (not just academic projects)
 
-
-Currently preparing for high-impact internships in **AI and Full Stack Engineering**, with strong focus on:
-- System Design  
-- Data Structures & Algorithms  
-- Production-ready architecture  
-
 ---
 
 ## Technical Stack
