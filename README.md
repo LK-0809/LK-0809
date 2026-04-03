@@ -22,11 +22,17 @@ Currently preparing for high-impact internships in **AI and Full Stack Engineeri
 
 ---
 
-## What I’m Currently Building
+## Technical Stack
+### 💻 Programming & Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,java,nodejs,express,bootstrap" />
+</p>
 
-- AI + IoT based **Water Pressure Monitoring & Management System** (Solapur City)
-- Intelligent **Crop Disease & Soil Monitoring System** (Research-backed)
-- Advanced DSA & System Design preparation for top-tier internships
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,git,github,vscode,docker,arduino,figma,notion" />
+</p> 
 
 ---
 
@@ -64,18 +70,6 @@ A research-backed agricultural intelligence system integrating:
 - Cloud monitoring dashboard
 
 **Objective:** Reduce water leakage and optimize municipal water distribution.
-
----
-
-## Technical Stack
-
-**Languages:** Python, Java, JavaScript, Typescript  
-**Frontend:** React, Next.js, HTML, CSS  
-**Backend:** Node.js, REST APIs  
-**AI/ML:** TensorFlow, ONNX, Model Optimization  
-**IoT:** ESP32, Sensor Integration,Cloud Connectivity  
-**Databases:** Firebase, MongoDB,PostreSQL  
-**Tools:** Git, GitHub, VS Code , Docker  
 
 ---
 
