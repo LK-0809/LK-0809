@@ -73,7 +73,15 @@ Published research paper and review paper on AI-based agricultural monitoring sy
 
 ---
 
-## Connect
+## 🌐 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/lakshmi-khetawat-45a13a325/
-Email: Lakshmikhetawat@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/lakshmi-khetawat-45a13a325/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+ 
+  <a href="Lakshmikhetawat@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+</p>
+
+---
